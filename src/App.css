@@ -21,3 +21,45 @@
   color: #ffff;
   margin-bottom: 20px;
 }
+
+.generator-password{
+  position: relative;
+  background: rgba(0,0,0,0.4);
+  padding: 13px 10px;
+  color: #ffff;
+  height: 46px;
+  margin-bottom: 15px;
+}
+
+.copy_btn{
+  position: absolute;
+  background: #3b3b98;
+  color: #ffff;
+  border: none;
+  height: 40px;
+  padding: 10px;
+  cursor: pointer;
+  top: 3px;
+  right: 3px;
+
+}
+
+.generator_btn{
+  background: #3b3b98;
+  border: none;
+  display: block;
+  width: 100%;
+  padding: 10px;
+  color: #ffff;
+  font-size: 17px;
+  cursor: pointer;
+
+}
+
+.form-group{
+  display: flex;
+  justify-content: space-between;
+  color: #ffff;
+  margin-bottom: 15px;
+
+}
